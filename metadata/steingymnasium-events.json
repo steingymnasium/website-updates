@@ -1,0 +1,15 @@
+{
+  "name": "Steingymnasium Event Manager",
+  "slug": "steingymnasium-events",
+  "version": "2.4.1",
+  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-events-v2.4.1/steingymnasium-events.zip",
+  "homepage": "https://github.com/steingymnasium/webiste/tree/main/steingymnasium-events",
+  "author": "Freiherr-vom-Stein-Gymnasium",
+  "requires": "6.4",
+  "tested": "6.8",
+  "requires_php": "7.4",
+  "last_updated": "2026-08-31 14:45:50",
+  "sections": {
+    "changelog": "<h4>Letzte Änderungen</h4>\n* release: GitHub-Auto-Updates für alle Komponenten aktiv<br>\n* chore: alle Komponenten für den Update-Kanal releasen (Basis-Releases)<br>\n* feat: automatische Updates für alle eigenen Plugins + Theme über GitHub<br>\n* chore: standardize plugin names and update author contact information across all plugins<br>\n* chore: bump Events Plugin version to 2.4.0<br>\n* feat: implement event description tooltips, custom login branding, global navigation, and a new student shortcode for project days.<br>\n* chore: bump Events Plugin version to 2.3.0<br>\n* feat: add event capacity management with real-time UI validation and occupancy tracking in dashboards<br>\n* chore: bump Events Plugin version to 2.2.0<br>\n* feat: implement event_group post type and migrate participant management to dedicated group meta boxes<br>\n* chore: bump Events Plugin version to 2.1.0<br>\n* Add position synchronization and documentation for SG M365 SSO and Event Manager<br>\n* feat: update author information in plugin header and add SG Simple Newsletter plugin<br>\n* chore: bump Events Plugin version to 1.0.0<br>\n* feat: add dashboard menu and event overview functionality"
+  }
+}

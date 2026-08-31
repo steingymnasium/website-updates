@@ -1,0 +1,15 @@
+{
+  "name": "Steingymnasium Frontend Wiki",
+  "slug": "school-frontend-wiki",
+  "version": "0.6.1",
+  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/school-frontend-wiki-v0.6.1/school-frontend-wiki.zip",
+  "homepage": "https://github.com/steingymnasium/webiste/tree/main/school-frontend-wiki",
+  "author": "Freiherr-vom-Stein-Gymnasium",
+  "requires": "6.4",
+  "tested": "6.8",
+  "requires_php": "7.4",
+  "last_updated": "2026-08-31 14:45:41",
+  "sections": {
+    "changelog": "<h4>Letzte Änderungen</h4>\n* release: GitHub-Auto-Updates für alle Komponenten aktiv<br>\n* chore: alle Komponenten für den Update-Kanal releasen (Basis-Releases)<br>\n* feat: automatische Updates für alle eigenen Plugins + Theme über GitHub<br>\n* chore: standardize plugin names and update author contact information across all plugins<br>\n* chore: update plugin author information in header metadata<br>\n* chore: bump School Frontend Wiki version to 0.6.0<br>\n* feat: implement page reading view with search functionality and improved UI navigation<br>\n* chore: bump School Frontend Wiki version to 0.5.0<br>\n* feat: implement initial School Frontend Wiki plugin structure with CI/CD and Renovate configuration"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Steingymnasium Simple Newsletter",
+  "slug": "steingymnasium-newsletter",
+  "version": "1.0.1",
+  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-newsletter-v1.0.1/steingymnasium-newsletter.zip",
+  "homepage": "https://github.com/steingymnasium/webiste/tree/main/steingymnasium-newsletter",
+  "author": "Freiherr-vom-Stein-Gymnasium",
+  "requires": "6.4",
+  "tested": "6.8",
+  "requires_php": "7.4",
+  "last_updated": "2026-08-31 14:45:58",
+  "sections": {
+    "changelog": "<h4>Letzte Änderungen</h4>\n* release: GitHub-Auto-Updates für alle Komponenten aktiv<br>\n* chore: alle Komponenten für den Update-Kanal releasen (Basis-Releases)<br>\n* feat: automatische Updates für alle eigenen Plugins + Theme über GitHub<br>\n* chore: standardize plugin names and update author contact information across all plugins<br>\n* chore: bump Newsletter Plugin version to 1.0.0<br>\n* feat: add backend dashboard for managing newsletter settings and subscribers<br>\n* chore: bump Newsletter Plugin version to 0.0.1<br>\n* feat: update author information in plugin header and add SG Simple Newsletter plugin"
+  }
+}
