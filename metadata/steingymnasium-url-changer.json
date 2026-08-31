@@ -1,15 +1,15 @@
 {
   "name": "Steingymnasium URL Changer",
   "slug": "steingymnasium-url-changer",
-  "version": "1.1.3",
-  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-url-changer-v1.1.3/steingymnasium-url-changer.zip",
+  "version": "1.1.4",
+  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-url-changer-v1.1.4/steingymnasium-url-changer.zip",
   "homepage": "https://github.com/steingymnasium/webiste/tree/main/steingymnasium-url-changer",
   "author": "Freiherr-vom-Stein-Gymnasium",
   "requires": "6.4",
   "tested": "6.8",
   "requires_php": "7.4",
-  "last_updated": "2026-08-31 14:39:42",
+  "last_updated": "2026-08-31 14:41:52",
   "sections": {
-    "changelog": "<h4>Letzte Änderungen</h4>\n* test: Release-Pipeline v2 (Metadaten-Fix)<br>\n* test: erste echte Release-Pipeline (url-changer)<br>\n* feat: automatische Updates für alle eigenen Plugins + Theme über GitHub<br>\n* chore: auto-bump versions [skip ci]<br>\n* feat(golive): Tabellen-Scope (core/prefix/all) für den URL-Endpoint<br>\n* chore: auto-bump versions [skip ci]<br>\n* feat: Go-Live-Automat (Domain-Swap auf Knopfdruck)<br>\n* chore: auto-bump versions [skip ci]<br>\n* refactor: safe URL changer for serialized data and update backup pruning workflow<br>\n* chore: standardize plugin names and update author contact information across all plugins<br>\n* feat: implement AJAX calendar navigation and add URL changer plugin with automated release workflow"
+    "changelog": "<h4>Letzte Änderungen</h4>\n* fix(ci): Versions-Query (jq .tagName vor sub) + Kommentar zurückgesetzt<br>\n* test: Release-Pipeline v2 (Metadaten-Fix)<br>\n* test: erste echte Release-Pipeline (url-changer)<br>\n* feat: automatische Updates für alle eigenen Plugins + Theme über GitHub<br>\n* chore: auto-bump versions [skip ci]<br>\n* feat(golive): Tabellen-Scope (core/prefix/all) für den URL-Endpoint<br>\n* chore: auto-bump versions [skip ci]<br>\n* feat: Go-Live-Automat (Domain-Swap auf Knopfdruck)<br>\n* chore: auto-bump versions [skip ci]<br>\n* refactor: safe URL changer for serialized data and update backup pruning workflow<br>\n* chore: standardize plugin names and update author contact information across all plugins<br>\n* feat: implement AJAX calendar navigation and add URL changer plugin with automated release workflow"
   }
 }
