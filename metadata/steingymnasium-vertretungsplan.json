@@ -1,15 +1,15 @@
 {
   "name": "Steingymnasium Vertretungsplan",
   "slug": "steingymnasium-vertretungsplan",
-  "version": "1.0.0",
-  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-vertretungsplan-v1.0.0/steingymnasium-vertretungsplan.zip",
+  "version": "1.1.0",
+  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-vertretungsplan-v1.1.0/steingymnasium-vertretungsplan.zip",
   "homepage": "https://github.com/steingymnasium/webiste/tree/main/steingymnasium-vertretungsplan",
   "author": "Freiherr-vom-Stein-Gymnasium",
   "requires": "6.4",
   "tested": "6.8",
   "requires_php": "7.4",
-  "last_updated": "2026-09-02 05:40:34",
+  "last_updated": "2026-09-02 06:08:39",
   "sections": {
-    "changelog": "<h4>Letzte Änderungen</h4>\n* feat: Plugin steingymnasium-vertretungsplan + Ursachen-/Lösungsdoku"
+    "changelog": "<h4>Letzte Änderungen</h4>\n* feat(vertretungsplan): Plan im Seiten-Design statt WebUntis-Optik<br>\n* feat: Plugin steingymnasium-vertretungsplan + Ursachen-/Lösungsdoku"
   }
 }
