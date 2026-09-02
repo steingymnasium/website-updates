@@ -1,15 +1,15 @@
 {
   "name": "Steingymnasium Kalender",
   "slug": "Steingym-Calendar_Plugin",
-  "version": "1.2.3",
-  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/Steingym-Calendar_Plugin-v1.2.3/Steingym-Calendar_Plugin.zip",
+  "version": "1.2.4",
+  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/Steingym-Calendar_Plugin-v1.2.4/Steingym-Calendar_Plugin.zip",
   "homepage": "https://github.com/steingymnasium/webiste/tree/main/Steingym-Calendar_Plugin",
   "author": "Freiherr-vom-Stein-Gymnasium",
   "requires": "6.4",
-  "tested": "6.8",
+  "tested": "7.1",
   "requires_php": "7.4",
-  "last_updated": "2026-08-31 14:45:37",
+  "last_updated": "2026-09-02 06:31:09",
   "sections": {
-    "changelog": "<h4>Letzte Änderungen</h4>\n* release: GitHub-Auto-Updates für alle Komponenten aktiv<br>\n* chore: alle Komponenten für den Update-Kanal releasen (Basis-Releases)<br>\n* feat: automatische Updates für alle eigenen Plugins + Theme über GitHub<br>\n* chore: auto-bump versions [skip ci]<br>\n* feat: Implement ICS feed export in calendar plugin<br>\n* chore: auto-bump versions [skip ci]<br>\n* feat: change highlight keyword to wichtig and gesamt<br>\n* chore: bump Steingym-Calendar_Plugin version to 1.2.0<br>\n* feat: implement event description tooltips, custom login branding, global navigation, and a new student shortcode for project days.<br>\n* chore: bump Steingym-Calendar_Plugin version to 1.1.0<br>\n* feat: implement AJAX calendar navigation and add URL changer plugin with automated release workflow<br>\n* style: improve responsive navigation for calendar plugin and update mobile hero section styles<br>\n* chore: bump Steingym-Calendar_Plugin version to 1.0.4<br>\n* style: update navigation styling for improved layout consistency<br>\n* chore: bump Steingym-Calendar_Plugin version to 1.0.3"
+    "changelog": "<h4>Letzte Änderungen</h4>\n* chore: \"Tested up to: 7.1\" für alle Plugins + Theme<br>\n* release: GitHub-Auto-Updates für alle Komponenten aktiv<br>\n* chore: alle Komponenten für den Update-Kanal releasen (Basis-Releases)<br>\n* feat: automatische Updates für alle eigenen Plugins + Theme über GitHub<br>\n* chore: auto-bump versions [skip ci]<br>\n* feat: Implement ICS feed export in calendar plugin<br>\n* chore: auto-bump versions [skip ci]<br>\n* feat: change highlight keyword to wichtig and gesamt<br>\n* chore: bump Steingym-Calendar_Plugin version to 1.2.0<br>\n* feat: implement event description tooltips, custom login branding, global navigation, and a new student shortcode for project days.<br>\n* chore: bump Steingym-Calendar_Plugin version to 1.1.0<br>\n* feat: implement AJAX calendar navigation and add URL changer plugin with automated release workflow<br>\n* style: improve responsive navigation for calendar plugin and update mobile hero section styles<br>\n* chore: bump Steingym-Calendar_Plugin version to 1.0.4<br>\n* style: update navigation styling for improved layout consistency"
   }
 }

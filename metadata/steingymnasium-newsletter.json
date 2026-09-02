@@ -1,15 +1,15 @@
 {
   "name": "Steingymnasium Simple Newsletter",
   "slug": "steingymnasium-newsletter",
-  "version": "1.0.2",
-  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-newsletter-v1.0.2/steingymnasium-newsletter.zip",
+  "version": "1.0.3",
+  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-newsletter-v1.0.3/steingymnasium-newsletter.zip",
   "homepage": "https://github.com/steingymnasium/webiste/tree/main/steingymnasium-newsletter",
   "author": "Freiherr-vom-Stein-Gymnasium",
   "requires": "6.4",
-  "tested": "6.8",
+  "tested": "7.1",
   "requires_php": "7.4",
-  "last_updated": "2026-08-31 15:06:03",
+  "last_updated": "2026-09-02 06:32:11",
   "sections": {
-    "changelog": "<h4>Letzte Änderungen</h4>\n* test: Newsletter-Release mit korrigiertem Token<br>\n* test: Release-Pipeline mit dem echten RELEASES_TOKEN (newsletter)<br>\n* release: GitHub-Auto-Updates für alle Komponenten aktiv<br>\n* chore: alle Komponenten für den Update-Kanal releasen (Basis-Releases)<br>\n* feat: automatische Updates für alle eigenen Plugins + Theme über GitHub<br>\n* chore: standardize plugin names and update author contact information across all plugins<br>\n* chore: bump Newsletter Plugin version to 1.0.0<br>\n* feat: add backend dashboard for managing newsletter settings and subscribers<br>\n* chore: bump Newsletter Plugin version to 0.0.1<br>\n* feat: update author information in plugin header and add SG Simple Newsletter plugin"
+    "changelog": "<h4>Letzte Änderungen</h4>\n* chore: \"Tested up to: 7.1\" für alle Plugins + Theme<br>\n* chore: auto-bump versions [skip ci]<br>\n* test: Newsletter-Release mit korrigiertem Token<br>\n* test: Release-Pipeline mit dem echten RELEASES_TOKEN (newsletter)<br>\n* release: GitHub-Auto-Updates für alle Komponenten aktiv<br>\n* chore: alle Komponenten für den Update-Kanal releasen (Basis-Releases)<br>\n* feat: automatische Updates für alle eigenen Plugins + Theme über GitHub<br>\n* chore: standardize plugin names and update author contact information across all plugins<br>\n* chore: bump Newsletter Plugin version to 1.0.0<br>\n* feat: add backend dashboard for managing newsletter settings and subscribers<br>\n* chore: bump Newsletter Plugin version to 0.0.1<br>\n* feat: update author information in plugin header and add SG Simple Newsletter plugin"
   }
 }

@@ -1,15 +1,15 @@
 {
   "name": "Steingymnasium M365 SSO",
   "slug": "steingymnasium-m365-sso",
-  "version": "1.2.4",
-  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-m365-sso-v1.2.4/steingymnasium-m365-sso.zip",
+  "version": "1.2.5",
+  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-m365-sso-v1.2.5/steingymnasium-m365-sso.zip",
   "homepage": "https://github.com/steingymnasium/webiste/tree/main/steingymnasium-m365-sso",
   "author": "Freiherr-vom-Stein-Gymnasium",
   "requires": "6.4",
-  "tested": "6.8",
+  "tested": "7.1",
   "requires_php": "7.4",
-  "last_updated": "2026-08-31 14:45:56",
+  "last_updated": "2026-09-02 06:32:02",
   "sections": {
-    "changelog": "<h4>Letzte Änderungen</h4>\n* release: GitHub-Auto-Updates für alle Komponenten aktiv<br>\n* chore: alle Komponenten für den Update-Kanal releasen (Basis-Releases)<br>\n* feat: automatische Updates für alle eigenen Plugins + Theme über GitHub<br>\n* chore: auto-bump versions [skip ci]<br>\n* feat: redirect user to previous page after sso login<br>\n* chore: standardize plugin names and update author contact information across all plugins<br>\n* chore: bump SSO Plugin version to 1.2.2<br>\n* feat: enhance error handling for Graph API response in user data retrieval<br>\n* chore: bump SSO Plugin version to 1.2.1<br>\n* feat: update domain validation to allow multiple domains for user registration<br>\n* chore: bump SSO Plugin version to 1.2.0<br>\n* feat: add manual user synchronization feature with Microsoft Graph API<br>\n* chore: bump SSO Plugin version to 1.1.0<br>\n* Add position synchronization and documentation for SG M365 SSO and Event Manager<br>\n* feat: add SSO Plugin with versioning and artifact release workflow"
+    "changelog": "<h4>Letzte Änderungen</h4>\n* chore: \"Tested up to: 7.1\" für alle Plugins + Theme<br>\n* release: GitHub-Auto-Updates für alle Komponenten aktiv<br>\n* chore: alle Komponenten für den Update-Kanal releasen (Basis-Releases)<br>\n* feat: automatische Updates für alle eigenen Plugins + Theme über GitHub<br>\n* chore: auto-bump versions [skip ci]<br>\n* feat: redirect user to previous page after sso login<br>\n* chore: standardize plugin names and update author contact information across all plugins<br>\n* chore: bump SSO Plugin version to 1.2.2<br>\n* feat: enhance error handling for Graph API response in user data retrieval<br>\n* chore: bump SSO Plugin version to 1.2.1<br>\n* feat: update domain validation to allow multiple domains for user registration<br>\n* chore: bump SSO Plugin version to 1.2.0<br>\n* feat: add manual user synchronization feature with Microsoft Graph API<br>\n* chore: bump SSO Plugin version to 1.1.0<br>\n* Add position synchronization and documentation for SG M365 SSO and Event Manager"
   }
 }
