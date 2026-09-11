@@ -1,15 +1,15 @@
 {
   "name": "Steingymnasium Analytics",
   "slug": "steingymnasium-analytics",
-  "version": "1.0.4",
-  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-analytics-v1.0.4/steingymnasium-analytics.zip",
+  "version": "1.0.5",
+  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-analytics-v1.0.5/steingymnasium-analytics.zip",
   "homepage": "https://github.com/steingymnasium/webiste/tree/main/steingymnasium-analytics",
   "author": "Freiherr-vom-Stein-Gymnasium",
   "requires": "6.4",
   "tested": "7.1",
   "requires_php": "7.4",
-  "last_updated": "2026-09-11 20:36:30",
+  "last_updated": "2026-09-11 21:11:57",
   "sections": {
-    "changelog": "<h4>Letzte Änderungen</h4>\n* analytics: Sankey-Flussdiagramm der Seitenübergänge (\"Energyflow\")<br>\n* chore: auto-bump versions [skip ci]<br>\n* Backend-Dark-Mode-Kompatibilität für eigene Plugin-UI<br>\n* chore: auto-bump versions [skip ci]<br>\n* analytics: Echtzeit-Detailansicht + Nutzerpfade<br>\n* chore: auto-bump versions [skip ci]<br>\n* analytics: Dashboard-Widget, Übersichtsspalte, Editor-Detailansicht<br>\n* analytics: neues Plugin für schlanke, cookielose Website-Statistik"
+    "changelog": "<h4>Letzte Änderungen</h4>\n* analytics: mehrstufiges Pfad-Diagramm (echte Mehrfachsprünge)<br>\n* chore: auto-bump versions [skip ci]<br>\n* analytics: Sankey-Flussdiagramm der Seitenübergänge (\"Energyflow\")<br>\n* chore: auto-bump versions [skip ci]<br>\n* Backend-Dark-Mode-Kompatibilität für eigene Plugin-UI<br>\n* chore: auto-bump versions [skip ci]<br>\n* analytics: Echtzeit-Detailansicht + Nutzerpfade<br>\n* chore: auto-bump versions [skip ci]<br>\n* analytics: Dashboard-Widget, Übersichtsspalte, Editor-Detailansicht<br>\n* analytics: neues Plugin für schlanke, cookielose Website-Statistik"
   }
 }
