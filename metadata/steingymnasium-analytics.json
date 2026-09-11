@@ -1,15 +1,15 @@
 {
   "name": "Steingymnasium Analytics",
   "slug": "steingymnasium-analytics",
-  "version": "1.0.0",
-  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-analytics-v1.0.0/steingymnasium-analytics.zip",
+  "version": "1.0.1",
+  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-analytics-v1.0.1/steingymnasium-analytics.zip",
   "homepage": "https://github.com/steingymnasium/webiste/tree/main/steingymnasium-analytics",
   "author": "Freiherr-vom-Stein-Gymnasium",
   "requires": "6.4",
   "tested": "7.1",
   "requires_php": "7.4",
-  "last_updated": "2026-09-11 18:17:16",
+  "last_updated": "2026-09-11 18:27:15",
   "sections": {
-    "changelog": "<h4>Letzte Änderungen</h4>\n* analytics: neues Plugin für schlanke, cookielose Website-Statistik"
+    "changelog": "<h4>Letzte Änderungen</h4>\n* analytics: Dashboard-Widget, Übersichtsspalte, Editor-Detailansicht<br>\n* analytics: neues Plugin für schlanke, cookielose Website-Statistik"
   }
 }
