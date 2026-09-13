@@ -1,15 +1,15 @@
 {
   "name": "Steingymnasium Feedback",
   "slug": "steingymnasium-feedback",
-  "version": "1.0.3",
-  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-feedback-v1.0.3/steingymnasium-feedback.zip",
+  "version": "1.0.4",
+  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-feedback-v1.0.4/steingymnasium-feedback.zip",
   "homepage": "https://github.com/steingymnasium/webiste/tree/main/steingymnasium-feedback",
   "author": "Freiherr-vom-Stein-Gymnasium",
   "requires": "6.4",
   "tested": "7.1",
   "requires_php": "7.4",
-  "last_updated": "2026-09-13 17:13:42",
+  "last_updated": "2026-09-13 17:16:21",
   "sections": {
-    "changelog": "<h4>Letzte Änderungen</h4>\n* Feedback: Wortwolke zeigt jetzt echte, wiederkehrende Themen statt Einzelwörtern<br>\n* chore: auto-bump versions [skip ci]<br>\n* Feedback: Redaktions-Schüler*innen sehen Feedback zu eigenen Beiträgen (lesend)<br>\n* chore: auto-bump versions [skip ci]<br>\n* feedback: Formular + Wortwolke auch im Slider-News-Modal<br>\n* feedback: neues Plugin für anonymes Beitrags-Feedback statt Kommentare"
+    "changelog": "<h4>Letzte Änderungen</h4>\n* Feedback: Hinweistext an das neue Zitat-Fallback anpassen<br>\n* chore: auto-bump versions [skip ci]<br>\n* Feedback: Wortwolke zeigt jetzt echte, wiederkehrende Themen statt Einzelwörtern<br>\n* chore: auto-bump versions [skip ci]<br>\n* Feedback: Redaktions-Schüler*innen sehen Feedback zu eigenen Beiträgen (lesend)<br>\n* chore: auto-bump versions [skip ci]<br>\n* feedback: Formular + Wortwolke auch im Slider-News-Modal<br>\n* feedback: neues Plugin für anonymes Beitrags-Feedback statt Kommentare"
   }
 }
