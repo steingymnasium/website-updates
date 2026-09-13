@@ -1,15 +1,15 @@
 {
   "name": "Steingymnasium Elternschaft",
   "slug": "steingymnasium-elternschaft",
-  "version": "1.5.0",
-  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-elternschaft-v1.5.0/steingymnasium-elternschaft.zip",
+  "version": "1.5.1",
+  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-elternschaft-v1.5.1/steingymnasium-elternschaft.zip",
   "homepage": "https://github.com/steingymnasium/webiste/tree/main/steingymnasium-elternschaft",
   "author": "Freiherr-vom-Stein-Gymnasium",
   "requires": "6.4",
   "tested": "7.1",
   "requires_php": "7.4",
-  "last_updated": "2026-09-06 17:58:33",
+  "last_updated": "2026-09-13 15:42:41",
   "sections": {
-    "changelog": "<h4>Letzte Änderungen</h4>\n* feat(elternschaft): Elternsprecher-Liste mit Klarnamen (Name &lt;mail>)<br>\n* feat(elternschaft): Dark-/Light-Unterstützung im Frontend<br>\n* chore: auto-bump versions [skip ci]<br>\n* fix(elternschaft): Soll-Popup ohne &lt;form> + ans Seitenende – „Link abgelaufen\"-Fehler<br>\n* chore: auto-bump versions [skip ci]<br>\n* fix(elternschaft): Soll-Besetzung – korrekte Paragraphen &amp; Amtszeiten<br>\n* chore: auto-bump versions [skip ci]<br>\n* feat(elternschaft): Soll-Besetzung nach Berliner Schulgesetz als Popup<br>\n* feat(elternschaft): domain-unabhängige Magic-Links + Pfad-Resolver<br>\n* chore: auto-bump versions [skip ci]<br>\n* feat(elternschaft): Stufe 11/12 ohne Buchstaben anlegen<br>\n* chore: auto-bump versions [skip ci]<br>\n* fix(elternschaft): Formularfelder laufen nicht mehr aus der Karte<br>\n* fix(elternschaft): term_start sanitisieren, Ballot-Sortierung deterministisch<br>\n* feat(elternschaft): Stammdaten, Versammlungen, Wahlen, Mail-Anhänge, Doku"
+    "changelog": "<h4>Letzte Änderungen</h4>\n* Elternschaft: optionale Melde-Hook-Anbindung an schulgemeinschaft<br>\n* feat(elternschaft): Elternsprecher-Liste mit Klarnamen (Name &lt;mail>)<br>\n* feat(elternschaft): Dark-/Light-Unterstützung im Frontend<br>\n* chore: auto-bump versions [skip ci]<br>\n* fix(elternschaft): Soll-Popup ohne &lt;form> + ans Seitenende – „Link abgelaufen\"-Fehler<br>\n* chore: auto-bump versions [skip ci]<br>\n* fix(elternschaft): Soll-Besetzung – korrekte Paragraphen &amp; Amtszeiten<br>\n* chore: auto-bump versions [skip ci]<br>\n* feat(elternschaft): Soll-Besetzung nach Berliner Schulgesetz als Popup<br>\n* feat(elternschaft): domain-unabhängige Magic-Links + Pfad-Resolver<br>\n* chore: auto-bump versions [skip ci]<br>\n* feat(elternschaft): Stufe 11/12 ohne Buchstaben anlegen<br>\n* chore: auto-bump versions [skip ci]<br>\n* fix(elternschaft): Formularfelder laufen nicht mehr aus der Karte<br>\n* fix(elternschaft): term_start sanitisieren, Ballot-Sortierung deterministisch"
   }
 }
