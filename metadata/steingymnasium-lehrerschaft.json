@@ -1,15 +1,15 @@
 {
   "name": "Steingymnasium Lehrerschaft",
   "slug": "steingymnasium-lehrerschaft",
-  "version": "1.0.0",
-  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-lehrerschaft-v1.0.0/steingymnasium-lehrerschaft.zip",
+  "version": "1.0.1",
+  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-lehrerschaft-v1.0.1/steingymnasium-lehrerschaft.zip",
   "homepage": "https://github.com/steingymnasium/webiste/tree/main/steingymnasium-lehrerschaft",
   "author": "Freiherr-vom-Stein-Gymnasium",
   "requires": "6.4",
   "tested": "7.1",
   "requires_php": "7.4",
-  "last_updated": "2026-09-13 15:52:47",
+  "last_updated": "2026-09-13 17:03:57",
   "sections": {
-    "changelog": "<h4>Letzte Änderungen</h4>\n* Add steingymnasium-lehrerschaft plugin (v1.0.0)"
+    "changelog": "<h4>Letzte Änderungen</h4>\n* Schulgemeinschaftswahlen-Menüs: kollisionsfreie Position 21-24 statt 57-60<br>\n* Add steingymnasium-lehrerschaft plugin (v1.0.0)"
   }
 }

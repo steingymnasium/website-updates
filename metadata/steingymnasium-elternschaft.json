@@ -1,15 +1,15 @@
 {
   "name": "Steingymnasium Elternschaft",
   "slug": "steingymnasium-elternschaft",
-  "version": "1.5.2",
-  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-elternschaft-v1.5.2/steingymnasium-elternschaft.zip",
+  "version": "1.5.3",
+  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-elternschaft-v1.5.3/steingymnasium-elternschaft.zip",
   "homepage": "https://github.com/steingymnasium/webiste/tree/main/steingymnasium-elternschaft",
   "author": "Freiherr-vom-Stein-Gymnasium",
   "requires": "6.4",
   "tested": "7.1",
   "requires_php": "7.4",
-  "last_updated": "2026-09-13 16:48:00",
+  "last_updated": "2026-09-13 17:03:47",
   "sections": {
-    "changelog": "<h4>Letzte Änderungen</h4>\n* Elternschaft: Menüposition an die Schulgemeinschaftswahlen-Gruppe angleichen<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft: optionale Melde-Hook-Anbindung an schulgemeinschaft<br>\n* feat(elternschaft): Elternsprecher-Liste mit Klarnamen (Name &lt;mail>)<br>\n* feat(elternschaft): Dark-/Light-Unterstützung im Frontend<br>\n* chore: auto-bump versions [skip ci]<br>\n* fix(elternschaft): Soll-Popup ohne &lt;form> + ans Seitenende – „Link abgelaufen\"-Fehler<br>\n* chore: auto-bump versions [skip ci]<br>\n* fix(elternschaft): Soll-Besetzung – korrekte Paragraphen &amp; Amtszeiten<br>\n* chore: auto-bump versions [skip ci]<br>\n* feat(elternschaft): Soll-Besetzung nach Berliner Schulgesetz als Popup<br>\n* feat(elternschaft): domain-unabhängige Magic-Links + Pfad-Resolver<br>\n* chore: auto-bump versions [skip ci]<br>\n* feat(elternschaft): Stufe 11/12 ohne Buchstaben anlegen<br>\n* chore: auto-bump versions [skip ci]"
+    "changelog": "<h4>Letzte Änderungen</h4>\n* Schulgemeinschaftswahlen-Menüs: kollisionsfreie Position 21-24 statt 57-60<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft: Menüposition an die Schulgemeinschaftswahlen-Gruppe angleichen<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft: optionale Melde-Hook-Anbindung an schulgemeinschaft<br>\n* feat(elternschaft): Elternsprecher-Liste mit Klarnamen (Name &lt;mail>)<br>\n* feat(elternschaft): Dark-/Light-Unterstützung im Frontend<br>\n* chore: auto-bump versions [skip ci]<br>\n* fix(elternschaft): Soll-Popup ohne &lt;form> + ans Seitenende – „Link abgelaufen\"-Fehler<br>\n* chore: auto-bump versions [skip ci]<br>\n* fix(elternschaft): Soll-Besetzung – korrekte Paragraphen &amp; Amtszeiten<br>\n* chore: auto-bump versions [skip ci]<br>\n* feat(elternschaft): Soll-Besetzung nach Berliner Schulgesetz als Popup<br>\n* feat(elternschaft): domain-unabhängige Magic-Links + Pfad-Resolver<br>\n* chore: auto-bump versions [skip ci]"
   }
 }
