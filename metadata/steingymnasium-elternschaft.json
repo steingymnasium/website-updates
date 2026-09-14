@@ -1,15 +1,15 @@
 {
   "name": "Steingymnasium Elternschaft",
   "slug": "steingymnasium-elternschaft",
-  "version": "1.8.1",
-  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-elternschaft-v1.8.1/steingymnasium-elternschaft.zip",
+  "version": "1.8.2",
+  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-elternschaft-v1.8.2/steingymnasium-elternschaft.zip",
   "homepage": "https://github.com/steingymnasium/webiste/tree/main/steingymnasium-elternschaft",
   "author": "Freiherr-vom-Stein-Gymnasium",
   "requires": "6.4",
   "tested": "7.1",
   "requires_php": "7.4",
-  "last_updated": "2026-09-14 16:27:34",
+  "last_updated": "2026-09-14 18:19:52",
   "sections": {
-    "changelog": "<h4>Letzte Änderungen</h4>\n* Gremien-Sync: Fachkonferenzen nicht mehr als falsch typisiertes Duplikat anlegbar<br>\n* Gremien-Sync: Elternschaft als Datengeber für zentrale Schulgemeinschaft-Gremien<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft: Status-Badge auf Versammlungen-Seite im Dark-Mode unlesbar<br>\n* Elternschaft: Entwurfsmodus für Versammlungs-Einladungen + dauerhafte Anhänge<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft: Datumsfeld auf Versammlung-bearbeiten lief aus der Box<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft: Text in abwechselnd hinterlegten Mitgliederlisten-Zeilen unlesbar<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft: Zusatz-Gäste als editierbare Liste statt Freitext-Textarea<br>\n* Elternschaft: Amtszeit-Spalte aus der öffentlichen Gremium-Übersicht entfernt<br>\n* Elternschaft: admin.css/.js luden auf keiner einzigen Untermenü-Seite<br>\n* Elternschaft: Zugriff für externe Personen ohne Schul-Konto einrichten<br>\n* chore: auto-bump versions [skip ci]"
+    "changelog": "<h4>Letzte Änderungen</h4>\n* Elternschaft: RSVP-Buttons (\"Ich nehme teil\" etc.) führten zu 404<br>\n* chore: auto-bump versions [skip ci]<br>\n* Gremien-Sync: Fachkonferenzen nicht mehr als falsch typisiertes Duplikat anlegbar<br>\n* Gremien-Sync: Elternschaft als Datengeber für zentrale Schulgemeinschaft-Gremien<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft: Status-Badge auf Versammlungen-Seite im Dark-Mode unlesbar<br>\n* Elternschaft: Entwurfsmodus für Versammlungs-Einladungen + dauerhafte Anhänge<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft: Datumsfeld auf Versammlung-bearbeiten lief aus der Box<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft: Text in abwechselnd hinterlegten Mitgliederlisten-Zeilen unlesbar<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft: Zusatz-Gäste als editierbare Liste statt Freitext-Textarea<br>\n* Elternschaft: Amtszeit-Spalte aus der öffentlichen Gremium-Übersicht entfernt<br>\n* Elternschaft: admin.css/.js luden auf keiner einzigen Untermenü-Seite"
   }
 }
