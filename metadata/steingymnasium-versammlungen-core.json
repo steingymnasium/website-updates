@@ -1,15 +1,15 @@
 {
   "name": "Steingymnasium Versammlungen-Core",
   "slug": "steingymnasium-versammlungen-core",
-  "version": "1.0.0",
-  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-versammlungen-core-v1.0.0/steingymnasium-versammlungen-core.zip",
+  "version": "1.1.0",
+  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-versammlungen-core-v1.1.0/steingymnasium-versammlungen-core.zip",
   "homepage": "https://github.com/steingymnasium/webiste/tree/main/steingymnasium-versammlungen-core",
   "author": "Freiherr-vom-Stein-Gymnasium",
   "requires": "6.4",
   "tested": "7.1",
   "requires_php": "7.4",
-  "last_updated": "2026-09-13 15:41:22",
+  "last_updated": "2026-09-14 09:31:22",
   "sections": {
-    "changelog": "<h4>Letzte Änderungen</h4>\n* Add steingymnasium-versammlungen-core plugin (v1.0.0)"
+    "changelog": "<h4>Letzte Änderungen</h4>\n* versammlungen-core: Ämter bearbeiten/deaktivieren + Legislatur-Enddatum-Helfer<br>\n* Add steingymnasium-versammlungen-core plugin (v1.0.0)"
   }
 }

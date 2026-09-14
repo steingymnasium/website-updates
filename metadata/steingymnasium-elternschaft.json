@@ -1,15 +1,15 @@
 {
   "name": "Steingymnasium Elternschaft",
   "slug": "steingymnasium-elternschaft",
-  "version": "1.5.4",
-  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-elternschaft-v1.5.4/steingymnasium-elternschaft.zip",
+  "version": "1.6.0",
+  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-elternschaft-v1.6.0/steingymnasium-elternschaft.zip",
   "homepage": "https://github.com/steingymnasium/webiste/tree/main/steingymnasium-elternschaft",
   "author": "Freiherr-vom-Stein-Gymnasium",
   "requires": "6.4",
   "tested": "7.1",
   "requires_php": "7.4",
-  "last_updated": "2026-09-13 18:29:44",
+  "last_updated": "2026-09-14 09:30:40",
   "sections": {
-    "changelog": "<h4>Letzte Änderungen</h4>\n* Elternschaft-Tests: plugin_dir_url()-Stub ergänzen<br>\n* Schulgemeinschaftswahlen: Zugriffsberechtigung überall, Elternschaft-Sync, Doku-Links<br>\n* chore: auto-bump versions [skip ci]<br>\n* Schulgemeinschaftswahlen-Menüs: kollisionsfreie Position 21-24 statt 57-60<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft: Menüposition an die Schulgemeinschaftswahlen-Gruppe angleichen<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft: optionale Melde-Hook-Anbindung an schulgemeinschaft<br>\n* feat(elternschaft): Elternsprecher-Liste mit Klarnamen (Name &lt;mail>)<br>\n* feat(elternschaft): Dark-/Light-Unterstützung im Frontend<br>\n* chore: auto-bump versions [skip ci]<br>\n* fix(elternschaft): Soll-Popup ohne &lt;form> + ans Seitenende – „Link abgelaufen\"-Fehler<br>\n* chore: auto-bump versions [skip ci]<br>\n* fix(elternschaft): Soll-Besetzung – korrekte Paragraphen &amp; Amtszeiten<br>\n* chore: auto-bump versions [skip ci]"
+    "changelog": "<h4>Letzte Änderungen</h4>\n* Elternschaft: Zugriff für externe Personen ohne Schul-Konto einrichten<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft-Tests: plugin_dir_url()-Stub ergänzen<br>\n* Schulgemeinschaftswahlen: Zugriffsberechtigung überall, Elternschaft-Sync, Doku-Links<br>\n* chore: auto-bump versions [skip ci]<br>\n* Schulgemeinschaftswahlen-Menüs: kollisionsfreie Position 21-24 statt 57-60<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft: Menüposition an die Schulgemeinschaftswahlen-Gruppe angleichen<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft: optionale Melde-Hook-Anbindung an schulgemeinschaft<br>\n* feat(elternschaft): Elternsprecher-Liste mit Klarnamen (Name &lt;mail>)<br>\n* feat(elternschaft): Dark-/Light-Unterstützung im Frontend<br>\n* chore: auto-bump versions [skip ci]<br>\n* fix(elternschaft): Soll-Popup ohne &lt;form> + ans Seitenende – „Link abgelaufen\"-Fehler<br>\n* chore: auto-bump versions [skip ci]"
   }
 }

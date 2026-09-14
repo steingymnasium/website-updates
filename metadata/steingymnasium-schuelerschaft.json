@@ -1,15 +1,15 @@
 {
   "name": "Steingymnasium Schülerschaft",
   "slug": "steingymnasium-schuelerschaft",
-  "version": "1.0.2",
-  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-schuelerschaft-v1.0.2/steingymnasium-schuelerschaft.zip",
+  "version": "1.1.0",
+  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-schuelerschaft-v1.1.0/steingymnasium-schuelerschaft.zip",
   "homepage": "https://github.com/steingymnasium/webiste/tree/main/steingymnasium-schuelerschaft",
   "author": "Freiherr-vom-Stein-Gymnasium",
   "requires": "6.4",
   "tested": "7.1",
   "requires_php": "7.4",
-  "last_updated": "2026-09-13 18:31:36",
+  "last_updated": "2026-09-14 09:31:01",
   "sections": {
-    "changelog": "<h4>Letzte Änderungen</h4>\n* Manueller Versions-Bump: Release nachholen (voriger Push scheiterte an CI)<br>\n* Schulgemeinschaftswahlen: Zugriffsberechtigung überall, Elternschaft-Sync, Doku-Links<br>\n* chore: auto-bump versions [skip ci]<br>\n* Schulgemeinschaftswahlen-Menüs: kollisionsfreie Position 21-24 statt 57-60<br>\n* Add steingymnasium-schuelerschaft plugin (v1.0.0)"
+    "changelog": "<h4>Letzte Änderungen</h4>\n* Schülerschaft: eigene \"Ämter &amp; Mandate\"-Seite + Schülervertreter*innen im Zugriff<br>\n* Manueller Versions-Bump: Release nachholen (voriger Push scheiterte an CI)<br>\n* Schulgemeinschaftswahlen: Zugriffsberechtigung überall, Elternschaft-Sync, Doku-Links<br>\n* chore: auto-bump versions [skip ci]<br>\n* Schulgemeinschaftswahlen-Menüs: kollisionsfreie Position 21-24 statt 57-60<br>\n* Add steingymnasium-schuelerschaft plugin (v1.0.0)"
   }
 }
