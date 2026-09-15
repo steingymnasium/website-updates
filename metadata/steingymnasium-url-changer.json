@@ -1,15 +1,15 @@
 {
   "name": "Steingymnasium URL Changer",
   "slug": "steingymnasium-url-changer",
-  "version": "1.1.7",
-  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-url-changer-v1.1.7/steingymnasium-url-changer.zip",
+  "version": "1.1.8",
+  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-url-changer-v1.1.8/steingymnasium-url-changer.zip",
   "homepage": "https://github.com/steingymnasium/webiste/tree/main/steingymnasium-url-changer",
   "author": "Freiherr-vom-Stein-Gymnasium",
   "requires": "6.4",
   "tested": "7.1",
   "requires_php": "7.4",
-  "last_updated": "2026-09-11 22:23:02",
+  "last_updated": "2026-09-15 11:31:51",
   "sections": {
-    "changelog": "<h4>Letzte Änderungen</h4>\n* url-changer: __PHP_Incomplete_Class in sgc_replace_serialized_safe() abfangen<br>\n* chore: auto-bump versions [skip ci]<br>\n* chore: \"Tested up to: 7.1\" für alle Plugins + Theme<br>\n* release: GitHub-Auto-Updates für alle Komponenten aktiv<br>\n* chore: alle Komponenten für den Update-Kanal releasen (Basis-Releases)<br>\n* chore: auto-bump versions [skip ci]<br>\n* fix(ci): Versions-Query (jq .tagName vor sub) + Kommentar zurückgesetzt<br>\n* test: Release-Pipeline v2 (Metadaten-Fix)<br>\n* test: erste echte Release-Pipeline (url-changer)<br>\n* feat: automatische Updates für alle eigenen Plugins + Theme über GitHub<br>\n* chore: auto-bump versions [skip ci]<br>\n* feat(golive): Tabellen-Scope (core/prefix/all) für den URL-Endpoint<br>\n* chore: auto-bump versions [skip ci]<br>\n* feat: Go-Live-Automat (Domain-Swap auf Knopfdruck)<br>\n* chore: auto-bump versions [skip ci]"
+    "changelog": "<h4>Letzte Änderungen</h4>\n* fix(updates): stündliches Prüfintervall für die restlichen 13 Komponenten nachziehen<br>\n* chore: auto-bump versions [skip ci]<br>\n* url-changer: __PHP_Incomplete_Class in sgc_replace_serialized_safe() abfangen<br>\n* chore: auto-bump versions [skip ci]<br>\n* chore: \"Tested up to: 7.1\" für alle Plugins + Theme<br>\n* release: GitHub-Auto-Updates für alle Komponenten aktiv<br>\n* chore: alle Komponenten für den Update-Kanal releasen (Basis-Releases)<br>\n* chore: auto-bump versions [skip ci]<br>\n* fix(ci): Versions-Query (jq .tagName vor sub) + Kommentar zurückgesetzt<br>\n* test: Release-Pipeline v2 (Metadaten-Fix)<br>\n* test: erste echte Release-Pipeline (url-changer)<br>\n* feat: automatische Updates für alle eigenen Plugins + Theme über GitHub<br>\n* chore: auto-bump versions [skip ci]<br>\n* feat(golive): Tabellen-Scope (core/prefix/all) für den URL-Endpoint<br>\n* chore: auto-bump versions [skip ci]"
   }
 }

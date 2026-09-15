@@ -1,15 +1,15 @@
 {
   "name": "Steingymnasium Kalender",
   "slug": "Steingym-Calendar_Plugin",
-  "version": "1.2.5",
-  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/Steingym-Calendar_Plugin-v1.2.5/Steingym-Calendar_Plugin.zip",
+  "version": "1.2.6",
+  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/Steingym-Calendar_Plugin-v1.2.6/Steingym-Calendar_Plugin.zip",
   "homepage": "https://github.com/steingymnasium/webiste/tree/main/Steingym-Calendar_Plugin",
   "author": "Freiherr-vom-Stein-Gymnasium",
   "requires": "6.4",
   "tested": "7.1",
   "requires_php": "7.4",
-  "last_updated": "2026-09-13 10:22:07",
+  "last_updated": "2026-09-15 11:30:00",
   "sections": {
-    "changelog": "<h4>Letzte Änderungen</h4>\n* Steingym-Calendar: echter Abo-Button statt Einmal-Download<br>\n* chore: auto-bump versions [skip ci]<br>\n* chore: \"Tested up to: 7.1\" für alle Plugins + Theme<br>\n* release: GitHub-Auto-Updates für alle Komponenten aktiv<br>\n* chore: alle Komponenten für den Update-Kanal releasen (Basis-Releases)<br>\n* feat: automatische Updates für alle eigenen Plugins + Theme über GitHub<br>\n* chore: auto-bump versions [skip ci]<br>\n* feat: Implement ICS feed export in calendar plugin<br>\n* chore: auto-bump versions [skip ci]<br>\n* feat: change highlight keyword to wichtig and gesamt<br>\n* chore: bump Steingym-Calendar_Plugin version to 1.2.0<br>\n* feat: implement event description tooltips, custom login branding, global navigation, and a new student shortcode for project days.<br>\n* chore: bump Steingym-Calendar_Plugin version to 1.1.0<br>\n* feat: implement AJAX calendar navigation and add URL changer plugin with automated release workflow<br>\n* style: improve responsive navigation for calendar plugin and update mobile hero section styles"
+    "changelog": "<h4>Letzte Änderungen</h4>\n* fix(updates): stündliches Prüfintervall für die restlichen 13 Komponenten nachziehen<br>\n* chore: auto-bump versions [skip ci]<br>\n* Steingym-Calendar: echter Abo-Button statt Einmal-Download<br>\n* chore: auto-bump versions [skip ci]<br>\n* chore: \"Tested up to: 7.1\" für alle Plugins + Theme<br>\n* release: GitHub-Auto-Updates für alle Komponenten aktiv<br>\n* chore: alle Komponenten für den Update-Kanal releasen (Basis-Releases)<br>\n* feat: automatische Updates für alle eigenen Plugins + Theme über GitHub<br>\n* chore: auto-bump versions [skip ci]<br>\n* feat: Implement ICS feed export in calendar plugin<br>\n* chore: auto-bump versions [skip ci]<br>\n* feat: change highlight keyword to wichtig and gesamt<br>\n* chore: bump Steingym-Calendar_Plugin version to 1.2.0<br>\n* feat: implement event description tooltips, custom login branding, global navigation, and a new student shortcode for project days.<br>\n* chore: bump Steingym-Calendar_Plugin version to 1.1.0"
   }
 }
