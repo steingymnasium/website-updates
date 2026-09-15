@@ -1,15 +1,15 @@
 {
   "name": "Steingymnasium Elternschaft",
   "slug": "steingymnasium-elternschaft",
-  "version": "1.9.0",
-  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-elternschaft-v1.9.0/steingymnasium-elternschaft.zip",
+  "version": "1.9.1",
+  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-elternschaft-v1.9.1/steingymnasium-elternschaft.zip",
   "homepage": "https://github.com/steingymnasium/webiste/tree/main/steingymnasium-elternschaft",
   "author": "Freiherr-vom-Stein-Gymnasium",
   "requires": "6.4",
   "tested": "7.1",
   "requires_php": "7.4",
-  "last_updated": "2026-09-15 08:01:51",
+  "last_updated": "2026-09-15 08:05:20",
   "sections": {
-    "changelog": "<h4>Letzte Änderungen</h4>\n* feat: automatische Gast-Einladung für gewählte GK/GSV/GEV-Gesandte<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft: RSVP-Buttons (\"Ich nehme teil\" etc.) führten zu 404<br>\n* chore: auto-bump versions [skip ci]<br>\n* Gremien-Sync: Fachkonferenzen nicht mehr als falsch typisiertes Duplikat anlegbar<br>\n* Gremien-Sync: Elternschaft als Datengeber für zentrale Schulgemeinschaft-Gremien<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft: Status-Badge auf Versammlungen-Seite im Dark-Mode unlesbar<br>\n* Elternschaft: Entwurfsmodus für Versammlungs-Einladungen + dauerhafte Anhänge<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft: Datumsfeld auf Versammlung-bearbeiten lief aus der Box<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft: Text in abwechselnd hinterlegten Mitgliederlisten-Zeilen unlesbar<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft: Zusatz-Gäste als editierbare Liste statt Freitext-Textarea"
+    "changelog": "<h4>Letzte Änderungen</h4>\n* docs(elternschaft): Soll-Besetzung-Dialog um beratende Elternvertretung der GSV ergänzt (§ 85)<br>\n* feat: automatische Gast-Einladung für gewählte GK/GSV/GEV-Gesandte<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft: RSVP-Buttons (\"Ich nehme teil\" etc.) führten zu 404<br>\n* chore: auto-bump versions [skip ci]<br>\n* Gremien-Sync: Fachkonferenzen nicht mehr als falsch typisiertes Duplikat anlegbar<br>\n* Gremien-Sync: Elternschaft als Datengeber für zentrale Schulgemeinschaft-Gremien<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft: Status-Badge auf Versammlungen-Seite im Dark-Mode unlesbar<br>\n* Elternschaft: Entwurfsmodus für Versammlungs-Einladungen + dauerhafte Anhänge<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft: Datumsfeld auf Versammlung-bearbeiten lief aus der Box<br>\n* chore: auto-bump versions [skip ci]<br>\n* Elternschaft: Text in abwechselnd hinterlegten Mitgliederlisten-Zeilen unlesbar<br>\n* chore: auto-bump versions [skip ci]"
   }
 }
