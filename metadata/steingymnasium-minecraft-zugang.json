@@ -1,0 +1,15 @@
+{
+  "name": "Steingymnasium Minecraft-Zugang",
+  "slug": "steingymnasium-minecraft-zugang",
+  "version": "1.0.0",
+  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-minecraft-zugang-v1.0.0/steingymnasium-minecraft-zugang.zip",
+  "homepage": "https://github.com/steingymnasium/webiste/tree/main/steingymnasium-minecraft-zugang",
+  "author": "Freiherr-vom-Stein-Gymnasium",
+  "requires": "6.4",
+  "tested": "7.1",
+  "requires_php": "7.4",
+  "last_updated": "2026-09-17 10:14:09",
+  "sections": {
+    "changelog": "<h4>Letzte Änderungen</h4>\n* feat(minecraft-zugang): new plugin for self-service Minecraft whitelist access"
+  }
+}
