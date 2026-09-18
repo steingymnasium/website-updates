@@ -1,15 +1,15 @@
 {
   "name": "Steingymnasium Versammlungen-Core",
   "slug": "steingymnasium-versammlungen-core",
-  "version": "1.2.1",
-  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-versammlungen-core-v1.2.1/steingymnasium-versammlungen-core.zip",
+  "version": "1.3.0",
+  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-versammlungen-core-v1.3.0/steingymnasium-versammlungen-core.zip",
   "homepage": "https://github.com/steingymnasium/webiste/tree/main/steingymnasium-versammlungen-core",
   "author": "Freiherr-vom-Stein-Gymnasium",
   "requires": "6.4",
   "tested": "7.1",
   "requires_php": "7.4",
-  "last_updated": "2026-09-15 11:24:24",
+  "last_updated": "2026-09-18 11:07:20",
   "sections": {
-    "changelog": "<h4>Letzte Änderungen</h4>\n* fix(updates): stündliches Prüfintervall + Sofort-Check-Parameter statt PUC-Default 12h<br>\n* fix(wahlen): versetzte Amtszeiten korrekt berücksichtigen, nicht alle Mandate beim Nachwählen beenden<br>\n* versammlungen-core: Ämter bearbeiten/deaktivieren + Legislatur-Enddatum-Helfer<br>\n* Add steingymnasium-versammlungen-core plugin (v1.0.0)"
+    "changelog": "<h4>Letzte Änderungen</h4>\n* fix(versammlungen-core,schuelerschaft): Stimmabgabe- und Textformat-Bugs aus dem Team-Kandidatur-E2E-Test<br>\n* feat(versammlungen-core): Wahlkampf-Phase als eigener Wahl-Status<br>\n* chore: auto-bump versions [skip ci]<br>\n* fix(updates): stündliches Prüfintervall + Sofort-Check-Parameter statt PUC-Default 12h<br>\n* fix(wahlen): versetzte Amtszeiten korrekt berücksichtigen, nicht alle Mandate beim Nachwählen beenden<br>\n* versammlungen-core: Ämter bearbeiten/deaktivieren + Legislatur-Enddatum-Helfer<br>\n* Add steingymnasium-versammlungen-core plugin (v1.0.0)"
   }
 }
