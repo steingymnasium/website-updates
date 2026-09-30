@@ -1,15 +1,15 @@
 {
   "name": "Steingymnasium Elternschaft",
   "slug": "steingymnasium-elternschaft",
-  "version": "1.14.0",
-  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-elternschaft-v1.14.0/steingymnasium-elternschaft.zip",
+  "version": "1.14.1",
+  "download_url": "https://github.com/steingymnasium/website-updates/releases/download/steingymnasium-elternschaft-v1.14.1/steingymnasium-elternschaft.zip",
   "homepage": "https://github.com/steingymnasium/webiste/tree/main/steingymnasium-elternschaft",
   "author": "Freiherr-vom-Stein-Gymnasium",
   "requires": "6.4",
   "tested": "7.1",
   "requires_php": "7.4",
-  "last_updated": "2026-09-28 12:17:52",
+  "last_updated": "2026-09-30 21:31:54",
   "sections": {
-    "changelog": "<h4>Letzte Änderungen</h4>\n* docs(elternschaft): 1.14.0 – Datenschutz der Klassenlisten<br>\n* fix(elternschaft): Einwilligungs-Häkchen links neben dem Text, Warnung ohne Datenschutz-Link<br>\n* feat(elternschaft): Einwilligung beim Eintragen in die Klassenliste<br>\n* feat(elternschaft): Klassen-Links neu erzeugen (Elternsprecher- und Eltern-Link)<br>\n* feat(elternschaft): Eltern-Daten echt löschen – sofort oder nach Frist<br>\n* fix(elternschaft): Eintragen mit fremder Adresse zeigt keinen persönlichen Link mehr<br>\n* feat(elternschaft): Ordner „Gesendet“ – Protokoll aller E-Mails, auch für Elternsprecher<br>\n* feat(elternschaft): Vorschau, Testmail und Bestätigung vor jedem Sammelversand<br>\n* fix(elternschaft): Mailformulare behalten eigenen Text – kein Fehlversand der Standardvorlage<br>\n* chore: auto-bump versions [skip ci]<br>\n* fix(updates): stündliches Prüfintervall + Sofort-Check-Parameter statt PUC-Default 12h<br>\n* feat(elternschaft): Sitzzahlen + Legislaturdauer auf der Kandidatur-Seite<br>\n* feat(elternschaft): Rechtliche Hinweistexte je Amt auf der Kandidatur-Seite<br>\n* fix(wahlen): versetzte Amtszeiten korrekt berücksichtigen, nicht alle Mandate beim Nachwählen beenden<br>\n* docs(elternschaft): Soll-Besetzung-Dialog um beratende Elternvertretung der GSV ergänzt (§ 85)"
+    "changelog": "<h4>Letzte Änderungen</h4>\n* fix(elternschaft): Wahlabschluss beendet nur auslaufende Mandate, Vorschau, kein Doppelabschluss<br>\n* docs(elternschaft): 1.14.0 – Datenschutz der Klassenlisten<br>\n* fix(elternschaft): Einwilligungs-Häkchen links neben dem Text, Warnung ohne Datenschutz-Link<br>\n* feat(elternschaft): Einwilligung beim Eintragen in die Klassenliste<br>\n* feat(elternschaft): Klassen-Links neu erzeugen (Elternsprecher- und Eltern-Link)<br>\n* feat(elternschaft): Eltern-Daten echt löschen – sofort oder nach Frist<br>\n* fix(elternschaft): Eintragen mit fremder Adresse zeigt keinen persönlichen Link mehr<br>\n* feat(elternschaft): Ordner „Gesendet“ – Protokoll aller E-Mails, auch für Elternsprecher<br>\n* feat(elternschaft): Vorschau, Testmail und Bestätigung vor jedem Sammelversand<br>\n* fix(elternschaft): Mailformulare behalten eigenen Text – kein Fehlversand der Standardvorlage<br>\n* chore: auto-bump versions [skip ci]<br>\n* fix(updates): stündliches Prüfintervall + Sofort-Check-Parameter statt PUC-Default 12h<br>\n* feat(elternschaft): Sitzzahlen + Legislaturdauer auf der Kandidatur-Seite<br>\n* feat(elternschaft): Rechtliche Hinweistexte je Amt auf der Kandidatur-Seite<br>\n* fix(wahlen): versetzte Amtszeiten korrekt berücksichtigen, nicht alle Mandate beim Nachwählen beenden"
   }
 }
